@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "usuario": "admin",
+        "contrasena": "123456",
+        "nombre_completo": "Administrador del Sistema"
+    },
+    {
+        "id": 2,
+        "usuario": "camarero",
+        "contrasena": "restaurante",
+        "nombre_completo": "Maria Lopez"
+    }
+]

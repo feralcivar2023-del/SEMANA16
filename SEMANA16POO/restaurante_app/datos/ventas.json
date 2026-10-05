@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "id_usuario": 1,
+    "nombre_usuario": "Administrador del Sistema",
+    "id_producto": 1,
+    "nombre_producto": "Hamburguesa",
+    "precio_producto": 8.5,
+    "fecha": "2026-10-04 17:33:43"
+  },
+  {
+    "id": 2,
+    "id_usuario": 2,
+    "nombre_usuario": "Maria Lopez",
+    "id_producto": 3,
+    "nombre_producto": "Ensalada",
+    "precio_producto": 6.0,
+    "fecha": "2026-10-04 17:33:57"
+  }
+]
